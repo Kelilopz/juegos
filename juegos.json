@@ -1,0 +1,20 @@
+[
+    {
+        "nombreJuego": "triki",
+        "Tiempo": 30,
+        "Cantidad de Jugadores": 2,
+        "Existencia": 10
+    },
+    {
+        "nombreJuego": "uno",
+        "Tiempo": 15,
+        "Cantidad de Jugadores": 5,
+        "Existencia": 4
+    },
+    {
+        "nombreJuego": "parques",
+        "Tiempo": 60,
+        "Cantidad de Jugadores": 5,
+        "Existencia": 30
+    }
+]
